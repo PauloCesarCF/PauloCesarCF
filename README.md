@@ -19,5 +19,5 @@ Estou em busca do meu primeiro emprego como front-end junior
 </div>
 
 
-### pré-processadores
+### pré-processadores:
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
