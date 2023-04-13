@@ -1,5 +1,4 @@
 ## Oi! Me chamo Paulo César
-Estou em busca do meu primeiro emprego como front-end junior
 
 <div align="center">
   <img height="180px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCesarCF&layout=compact&langs_count=7&theme=midnight-purple"/>
